@@ -1,0 +1,9 @@
+E:\C_Sharp\MayTinh\MayTinh\bin\Debug\MayTinh.exe.config
+E:\C_Sharp\MayTinh\MayTinh\bin\Debug\MayTinh.exe
+E:\C_Sharp\MayTinh\MayTinh\bin\Debug\MayTinh.pdb
+E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.csprojResolveAssemblyReference.cache
+E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.Form1.resources
+E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.Cache
+E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.exe
+E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.pdb
