@@ -48,12 +48,13 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.SystemColors.Control;
             this.label1.Font = new System.Drawing.Font("Arial", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label1.Location = new System.Drawing.Point(95, 30);
+            this.label1.ForeColor = System.Drawing.Color.Red;
+            this.label1.Location = new System.Drawing.Point(34, 22);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(345, 33);
+            this.label1.Size = new System.Drawing.Size(530, 37);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Chương Trình Tính Toán";
+            this.label1.Text = "Chương Trình Tính Toán Đã Chỉnh Sửa";
+            this.label1.UseCompatibleTextRendering = true;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtSoA
@@ -67,6 +68,7 @@
             // lblSoA
             // 
             this.lblSoA.AutoSize = true;
+            this.lblSoA.ForeColor = System.Drawing.Color.Red;
             this.lblSoA.Location = new System.Drawing.Point(77, 104);
             this.lblSoA.Name = "lblSoA";
             this.lblSoA.Size = new System.Drawing.Size(42, 17);
@@ -76,6 +78,7 @@
             // lblKetQua
             // 
             this.lblKetQua.AutoSize = true;
+            this.lblKetQua.ForeColor = System.Drawing.Color.Red;
             this.lblKetQua.Location = new System.Drawing.Point(77, 205);
             this.lblKetQua.Name = "lblKetQua";
             this.lblKetQua.Size = new System.Drawing.Size(64, 17);
@@ -102,6 +105,7 @@
             // lblSoB
             // 
             this.lblSoB.AutoSize = true;
+            this.lblSoB.ForeColor = System.Drawing.Color.Red;
             this.lblSoB.Location = new System.Drawing.Point(77, 156);
             this.lblSoB.Name = "lblSoB";
             this.lblSoB.Size = new System.Drawing.Size(42, 17);

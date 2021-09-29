@@ -7,3 +7,13 @@ E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
 E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.Cache
 E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.exe
 E:\C_Sharp\MayTinh\MayTinh\obj\Debug\MayTinh.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\bin\Debug\MayTinh.exe.config
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\obj\Debug\MayTinh.exe
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\obj\Debug\MayTinh.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\bin\Debug\MayTinh.exe
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\bin\Debug\MayTinh.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\obj\Debug\MayTinh.csprojResolveAssemblyReference.cache
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\obj\Debug\MayTinh.dangnhap.resources
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\obj\Debug\MayTinh.Form1.resources
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+C:\Users\daonh\OneDrive\Máy tính\project_Csharp\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.Cache
